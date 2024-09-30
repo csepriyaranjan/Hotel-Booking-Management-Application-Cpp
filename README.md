@@ -70,7 +70,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 ## Contact
 Feel free to reach out for any questions or collaborations:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/csepriyaranjan)
+- LinkedIn: [@csepriyaranjan](https://www.linkedin.com/in/csepriyaranjan)
 
 Thank you for your interest in the Hotel Booking Management Application!
-```
