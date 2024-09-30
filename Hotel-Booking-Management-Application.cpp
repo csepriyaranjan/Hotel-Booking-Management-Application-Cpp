@@ -2,7 +2,8 @@
 #include <fstream>
 #include <string>
 using namespace std;
-
+//  www.github.com/csepriyaranjan 
+//  www.linkedin.com/in/csepriyaranjan
 struct Hotel
 {
     char Name[40];
